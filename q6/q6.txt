@@ -1,0 +1,4 @@
+1. First of all I will implement Redux based state management 
+2. Clearly define Actions and Reducers
+3. Also I don’t recommend using “console.log()” in production
+

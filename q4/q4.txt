@@ -1,0 +1,3 @@
+1. We should set HTTP “ Accept “ header to “ application/json “ because the response call back uses “.json()”
+2. Also “forEach” cannot be called on a JavaScript Object 
+
